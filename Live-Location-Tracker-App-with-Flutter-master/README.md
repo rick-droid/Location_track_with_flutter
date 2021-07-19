@@ -1,5 +1,4 @@
-# Launch Screen Assets
+# Flutter project
 
-You can customize the launch screen with your own desired assets by replacing the image files in this directory.
-
-You can also do it by opening your Flutter project's Xcode project with `open ios/Runner.xcworkspace`, selecting `Runner/Assets.xcassets` in the Project Navigator and dropping in the desired images.
+Implemented a live location tracking app that uses Firebase for data storage and user authentication. Used flutter to design the UI, upon launch it asks for login info/create an
+account. The home page opens next that provides a "googlemaps" option to see location in real time.
